@@ -46,6 +46,17 @@ a:active {
 	color: rgb(255, 212, 22);
 }
 
+#body-text {
+	font-size: 1em;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	letter-spacing: .2em;
+	padding: .3em;
+	width: 90%;
+	
+}
+
+
 #contact-info {
 	font-size: .8em;
 	font-family: 'Open Sans', sans-serif;
